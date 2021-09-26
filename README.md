@@ -1,5 +1,5 @@
 # Customer_Personality_Analysis
 Customer Personality Analysis Project
 
-EDA
+EDA and 
 Model Building
